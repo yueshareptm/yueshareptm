@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @yueshareptm
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m yue, nice to meet you!
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning react, typescript, dotnet core
+- 💞️ I’m looking to collaborate on dotnet and react
+- 📫 How to reach me =>
 
 <!---
 yueshareptm/yueshareptm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
